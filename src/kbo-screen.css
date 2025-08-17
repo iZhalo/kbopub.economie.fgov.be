@@ -3291,8 +3291,7 @@ ul.horizontal li, ol.horizontal li {
 	height: 28px;
 	overflow: hidden;
 	padding: 0 1px 1px 0;
-	border-bottom: 2px solid #000000;
-	border-bottom-width: 950;
+	border-bottom: 2px  solid #000000;
 	width: 100%;
 	position: relative;
 }
@@ -3306,6 +3305,7 @@ ul.horizontal li, ol.horizontal li {
 	float: left;
 	margin: 0.5em 0.5em 0;
 	padding: 0;
+	margin-right: 260px
 }
 
 #blgm_belgiumHeader.blgm_stretch ul#blgm_languageSwitch {
@@ -3416,6 +3416,7 @@ color: black;
 div#main .news p {
 	margin: 0 0 1em 0; padding: 0 0 0 0; border: none; line-height: inherit; font-size: 1em; color: black;
 	}
+
 
 
 
