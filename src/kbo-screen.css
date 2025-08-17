@@ -3292,6 +3292,7 @@ ul.horizontal li, ol.horizontal li {
 	overflow: hidden;
 	padding: 0 1px 1px 0;
 	border-bottom: 2px solid #000000;
+	border-bottom-width: 950;
 	width: 100%;
 	position: relative;
 }
@@ -3415,6 +3416,7 @@ color: black;
 div#main .news p {
 	margin: 0 0 1em 0; padding: 0 0 0 0; border: none; line-height: inherit; font-size: 1em; color: black;
 	}
+
 
 
 
