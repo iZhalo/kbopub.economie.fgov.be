@@ -2272,7 +2272,7 @@ div.topNavigations {
 	font-style: inherit;
 	font-weight: normal;
 	line-height: 1;
-	margin: 1px 0px 1px 0px;
+	margin: 0px 0px 0px 0px;
 	padding: 0pt;
 	position: relative;
 	top: 1px;
@@ -2291,7 +2291,7 @@ ul.topNavigationst {
 	font-style: inherit;
 	font-weight: normal;
 	line-height: 1;
-	margin: 1px 0px 0px;
+	margin: 0px 0px 0px;
 	padding: 0pt;
 	position: relative;
 	top: 1px;
@@ -3412,5 +3412,6 @@ color: black;
 div#main .news p {
 	margin: 0 0 1em 0; padding: 0 0 0 0; border: none; line-height: inherit; font-size: 1em; color: black;
 	}
+
 
 
