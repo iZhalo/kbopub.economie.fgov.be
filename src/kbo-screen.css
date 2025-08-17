@@ -3356,7 +3356,7 @@ ul.horizontal li, ol.horizontal li {
 	color: #333333;
 	font-family: arial, verdana, sans-serif;
 	font-size: 1em;
-	line-height: 2em !important;
+	line-height: 1em !important;
 	text-align: right;
 }
 
@@ -3412,6 +3412,7 @@ color: black;
 div#main .news p {
 	margin: 0 0 1em 0; padding: 0 0 0 0; border: none; line-height: inherit; font-size: 1em; color: black;
 	}
+
 
 
 
