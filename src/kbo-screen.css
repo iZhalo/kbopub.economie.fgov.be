@@ -2272,7 +2272,7 @@ div.topNavigations {
 	font-style: inherit;
 	font-weight: normal;
 	line-height: 1;
-	margin: 34px 0px 1px 0px;
+	margin: 1px 0px 1px 0px;
 	padding: 0pt;
 	position: relative;
 	top: 1px;
@@ -2291,7 +2291,7 @@ ul.topNavigationst {
 	font-style: inherit;
 	font-weight: normal;
 	line-height: 1;
-	margin: 38px 0px 0px;
+	margin: 1px 0px 0px;
 	padding: 0pt;
 	position: relative;
 	top: 1px;
@@ -2553,7 +2553,7 @@ ul.setFont li {
 }
 ul.toolbar {
 	float: right;
-	margin: 5px 10px 2px 0px;
+	margin: 2px 2px 2px 0px;
 	text-align: right;
 }
 ul.toolbar {
@@ -3277,7 +3277,7 @@ ul.horizontal li, ol.horizontal li {
 
 #blgm_belgiumHeader {
 	background: none repeat scroll 0 0 #FFFFFF;
-	padding: 0 6px 2px 0;
+	padding: 0 2px 2px 0;
 	line-height: 2px;
 }
 
@@ -3412,4 +3412,5 @@ color: black;
 div#main .news p {
 	margin: 0 0 1em 0; padding: 0 0 0 0; border: none; line-height: inherit; font-size: 1em; color: black;
 	}
+
 
